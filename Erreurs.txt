@@ -1,0 +1,15 @@
+Gravité	Code	Description	Projet	Fichier	Ligne	État de la suppression
+Erreur	CS0246	Le nom de type ou d'espace de noms 'Vues' est introuvable (vous manque-t-il une directive using ou une référence d'assembly ?)	VueModele	C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\MainViewModel.cs	4	Actif
+
+Gravité	Code	Description	Projet	Fichier	Ligne	État de la suppression
+Erreur	CS0006	Fichier de métadonnées 'C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\bin\Debug\net7.0-windows\VueModele.dll' introuvable	Vues	C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\CSC	1	Actif
+
+
+Gravité	Code	Description	Projet	Fichier	Ligne	État de la suppression
+Erreur	CS0246	Le nom de type ou d'espace de noms 'MainWindowNewArticle' est introuvable (vous manque-t-il une directive using ou une référence d'assembly ?)	VueModele	C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\MainViewModel.cs	24	Actif
+
+
+Gravité	Code	Description	Projet	Fichier	Ligne	État de la suppression
+Erreur	CS0246	Le nom de type ou d'espace de noms 'MainWindowNewArticle' est introuvable (vous manque-t-il une directive using ou une référence d'assembly ?)	VueModele	C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\MainViewModel.cs	24	Actif
+
+

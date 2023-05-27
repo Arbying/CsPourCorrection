@@ -1,0 +1,247 @@
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Vues.exe
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Vues.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Vues.runtimeconfig.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\CommonServiceLocator.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Principale.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.lref
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Principale.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.g.resources
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.csproj.CopyComplete
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\refint\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\Vues.genruntimeconfig.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Vues\obj\Debug\net7.0-windows\ref\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Vues.exe
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Vues.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Vues.runtimeconfig.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\CommonServiceLocator.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Principale.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.lref
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Principale.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.g.resources
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.csproj.CopyComplete
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\refint\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\Vues.genruntimeconfig.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\Vues\obj\Debug\net7.0-windows\ref\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Vues.exe
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Vues.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Vues.runtimeconfig.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\CommonServiceLocator.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Principale.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.lref
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Principale.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.g.resources
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.csproj.CopyComplete
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\refint\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\Vues.genruntimeconfig.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Vues\obj\Debug\net7.0-windows\ref\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Vues.exe
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Vues.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Vues.runtimeconfig.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\CommonServiceLocator.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Principale.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.lref
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Principale.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.g.resources
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.csproj.CopyComplete
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\refint\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\Vues.genruntimeconfig.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Vues\obj\Debug\net7.0-windows\ref\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Vues.exe
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Vues.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Vues.runtimeconfig.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\CommonServiceLocator.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Principale.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues_MarkupCompile.lref
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\MainWindowNewArticle.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\MainWindowNewClient.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Principale.baml
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.g.resources
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.csproj.CopyComplete
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\refint\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\Vues.genruntimeconfig.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\ref\Vues.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\PoliceWindow.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Vues\obj\Debug\net7.0-windows\PoliceWindow.baml

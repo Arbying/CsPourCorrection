@@ -1,0 +1,47 @@
+﻿<Window x:Class="Vues.MainWindowNewArticle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vues"
+        mc:Ignorable="d"
+        Title="Ajout d'un article" Height="250" Width="500" WindowStartupLocation="CenterScreen"
+        Background="#8BC34A">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Code Barre:" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Margin="10,0,0,0" Text="{Binding CodeBarre, FallbackValue=54000000}"/>
+
+        <Label Grid.Row="1" Content="Dénomination:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="10,0,0,0" Text="{Binding Denomination}"/>
+
+        <Label Grid.Row="2" Content="Quantité:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="10,0,0,0" Text="{Binding Quantite, FallbackValue=1}"/>
+
+        <Label Grid.Row="3" Content="Prix:" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Margin="10,0,0,0" Text="{Binding Prix, FallbackValue=1.0}"/>
+
+        <Label Grid.Row="4" Content="Points:" VerticalAlignment="Center" />
+        <TextBox Grid.Row="4" Grid.Column="1" Margin="10,0,0,0" Text="{Binding Points, FallbackValue=0}"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="6" HorizontalAlignment="Right">
+            <Button Content="Enregistrer" Width="100" Margin="0,0,10,0" Command="{Binding SaveArticleCommand}"/>
+            <Button Content="Annuler" Width="100" Command="{Binding CancelCommand}"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,60 @@
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\bin\Debug\net7.0-windows\VueModele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\VueModele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\refint\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\VueModele\obj\Debug\net7.0-windows\ref\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\bin\Debug\net7.0-windows\VueModele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\VueModele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\refint\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201 - Sauvegarde 0521 - 14h\VueModele\obj\Debug\net7.0-windows\ref\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\bin\Debug\net7.0-windows\VueModele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\VueModele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\refint\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\VueModele\obj\Debug\net7.0-windows\ref\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\bin\Debug\net7.0-windows\VueModele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\VueModele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\refint\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\VueModele\obj\Debug\net7.0-windows\ref\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\bin\Debug\net7.0-windows\VueModele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\bin\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\bin\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\VueModele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\VueModele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\VueModele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\refint\VueModele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\VueModele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\VueModele\obj\Debug\net7.0-windows\ref\VueModele.dll

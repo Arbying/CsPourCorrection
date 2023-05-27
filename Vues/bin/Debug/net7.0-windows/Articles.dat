@@ -1,0 +1,16 @@
+[
+  {
+    "CodeBarre": 10101010,
+    "Denomination": "Art",
+    "Prix": 10,
+    "Points": 10,
+    "Quantite": 10
+  },
+  {
+    "CodeBarre": 123456,
+    "Denomination": "aer 123456",
+    "Prix": 1,
+    "Points": 0,
+    "Quantite": 0
+  }
+]

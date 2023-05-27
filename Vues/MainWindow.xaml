@@ -1,0 +1,177 @@
+﻿<Window x:Class="Vues.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Vues"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="650" Width="1100">
+    <Window.DataContext>
+        <local:MainViewModel />
+    </Window.DataContext>
+    
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500"/>
+            <!--Partie gauche statique-->
+            <ColumnDefinition Width="*"/>
+            <!--Partie droite flexible-->
+        </Grid.ColumnDefinitions>
+        
+
+            
+        <!--Partie gauche-->
+        <StackPanel Grid.Column="0" Background="LightGreen" Margin="10,10,10,0" Height="664" VerticalAlignment="Top">
+                <StackPanel>
+                    <ToolBar Background="Black" Height="30" VerticalAlignment="Top">
+                    <Menu>
+                        <MenuItem Header="Options" Background="Black" Foreground="Red" FontWeight="ExtraBold" FontSize="15">
+                            <MenuItem Header="Taille Police" Foreground="Red" FontWeight="ExtraBold" FontSize="15" Command="{Binding OuvrirPoliceWindowCommand}"/>
+                            <MenuItem Header="Parametres" Foreground="Red" FontWeight="ExtraBold" FontSize="15"/>
+                        </MenuItem>
+                    </Menu>
+                </ToolBar>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                <Button Content="Client" VerticalAlignment="Center" Margin="0,0,10,0" FontSize="16" Command="{Binding DemanderCarteClientCommand}" Width="80" Height="30"/>
+                <TextBox Text="Demander sa carte au client" VerticalAlignment="Center" FontSize="16" Width="402"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Background="Red">
+                <Label Content="Points:" VerticalAlignment="Center" Margin="0,0,5,0" FontSize="16"/>
+                <Label Content="Ancien solde:" VerticalAlignment="Center" Margin="0,0,5,0" FontSize="16"/>
+                <TextBox Text="" VerticalAlignment="Center" FontSize="16" Width="50"/>
+                <Label Content="Gagné:" VerticalAlignment="Center" Margin="0,0,5,0" FontSize="16"/>
+                <TextBox Text="" VerticalAlignment="Center" FontSize="16" Width="50"/>
+                <Label Content="Nouveau" VerticalAlignment="Center" Margin="0,0,5,0" FontSize="16"/>
+                <TextBox Text="" VerticalAlignment="Center" FontSize="16" Width="50"/>
+            </StackPanel>
+
+            <!-- Ajout de stack panels -->
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0" HorizontalAlignment="Right">
+                <Label Content="Sous-total:" VerticalAlignment="Center" Margin="0,0,10,0" FontSize="16"/>
+                <TextBox Text="{Binding SubTotal, Mode=OneWay}" VerticalAlignment="Center" FontSize="16" Width="100"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0" HorizontalAlignment="Right">
+                <Label Content="Réductions:" VerticalAlignment="Center" Margin="0,0,10,0" FontSize="16" Foreground="Red"/>
+                <TextBox Text="{Binding Reductions, Mode=OneWay}" VerticalAlignment="Center" FontSize="16" Width="100"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0" HorizontalAlignment="Right">
+                <Label Content="TOTAL:" VerticalAlignment="Center" Margin="0,0,10,0" FontSize="16" Foreground="Blue" FontWeight="Bold"/>
+                <TextBox Text="{Binding Total}" VerticalAlignment="Center" FontSize="16" Width="100"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Margin="0,0,0,10">
+                <ListView Margin="0,10,0,0" FontSize="16" ItemsSource="{Binding ArticlesTicket}">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Article" Width="281" DisplayMemberBinding="{Binding MonArticle.Denomination}"/>
+                            <GridViewColumn Header="Qté" Width="50" DisplayMemberBinding="{Binding Qu}"/>
+                            <GridViewColumn Header="Prix" Width="60" DisplayMemberBinding="{Binding MonArticle.Prix}"/>
+                            <GridViewColumn Header="Montant" Width="65" DisplayMemberBinding="{Binding Montant}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </StackPanel>
+
+            <StackPanel  Background="Magenta" Margin="0,0,0,10">
+                <!-- Contenu de l'autre section -->
+                <DockPanel>
+                </DockPanel>
+            </StackPanel>
+            <!--Fin contenu de la partie gauche-->
+        </StackPanel>
+        <!--Partie droite-->
+        <StackPanel Grid.Column="1" Background="LightBlue">
+            <!--Contenu de la partie droite-->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="350"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Column="1" Grid.Row="0" Background="LightBlue">
+                    <TextBox Text="{Binding EnteredNumber, Mode=TwoWay}" Width="474" Margin="10" Height="37" FontSize="12"/>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <Button Content="+ Client" Width="80" Height="80" Background="Yellow"  Foreground="Black" FontWeight="Bold" Command="{Binding OpenNewClientWindowCommand}"/>
+                        <Button x:Name="AddArticleButton" Content="+ Article" Command="{Binding OpenNewArticleWindowCommand}" />
+                        <Button Content="A faire" Width="80" Height="80" Background="DarkGreen" Foreground="Black" FontWeight="Bold"/>
+                        <Button Content="A faire" Width="80" Height="80" Background="DarkGreen" Foreground="Black" FontWeight="Bold"/>
+                        <Button Content="A faire" Width="80" Height="80" Background="DarkGreen" Foreground="Black" FontWeight="Bold"/>
+                        <Button Content="A faire" Width="80" Height="80" Background="DarkGreen" Foreground="Black" FontWeight="Bold"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <Button Content="Boulangerie" Width="80" Height="80" Background="Red" Foreground="Black" FontWeight="Bold" Command="{Binding BoulangerieButtonCommand}"/>
+                        <Button Content="Div 6%" Width="80" Height="80" Background="Red" Foreground="Black" FontWeight="Bold"/>
+                        <Button Content="Div 21 %" Width="80" Height="80" Background="Red" Foreground="Black" FontWeight="Bold"/>
+                        <Button Content="Tabac" Width="80" Height="80" Background="Red" Foreground="Black" FontWeight="Bold"/>
+                        <Button Content="Fruits" Width="80" Height="80" Background="Red" Foreground="Black" FontWeight="Bold"/>
+                        <Button Content="Legumes" Width="80" Height="80" Background="Red" Foreground="Black" FontWeight="Bold"/>
+                    </StackPanel>
+                </StackPanel>
+                <!--- Pavé numérique, X et paiements -->
+                <Grid Grid.Column="1" Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <!--- Parie pavé numérique et touches X, PLU-->
+                    <Grid Grid.Column="0" Margin="100,10,10,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Grid.Column="0">
+                            <!---Pavé numérique-->
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Button Content="7" Width="1.5cm" Height="1cm" Margin="2" Background="White" Command="{Binding AppendNumberCommand}" CommandParameter="7" FontSize="{Binding ButtonTextSize}" />
+
+                            <Button Content="8" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Column="1" Command="{Binding AppendNumberCommand}" CommandParameter="8"/>
+                            <Button Content="9" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Column="2" Command="{Binding AppendNumberCommand}" CommandParameter="9"/>
+                            <Button Content="4" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="1" Command="{Binding AppendNumberCommand}" CommandParameter="4"/>
+                            <Button Content="5" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="1" Grid.Column="1" Command="{Binding AppendNumberCommand}" CommandParameter="5"/>
+                            <Button Content="6" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="1" Grid.Column="2" Command="{Binding AppendNumberCommand}" CommandParameter="6"/>
+                            <Button Content="1" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="2"  Command="{Binding AppendNumberCommand}" CommandParameter="1"/>
+                            <Button Content="2" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="2" Grid.Column="1" Command="{Binding AppendNumberCommand}" CommandParameter="2"/>
+                            <Button Content="3" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="2" Grid.Column="2" Command="{Binding AppendNumberCommand}" CommandParameter="3"/>
+                            <Button Content="0" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="3" Command="{Binding AppendNumberCommand}" CommandParameter="0"/>
+                            <Button Content="00" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="3" Grid.Column="1" Command="{Binding AppendNumberCommand}" CommandParameter="00"/>
+                            <Button Content="000" Width="1.5cm" Height="1cm" Margin="2" Background="White" Grid.Row="3" Grid.Column="2" Command="{Binding AppendNumberCommand}" CommandParameter="000"/>
+                        </Grid>
+                        <Grid Grid.Column="1">
+                            <!---X ET PLU-->
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Button Content="X" Width="1.5cm" Height="2.1cm" Margin="2" Background="Gray" FontWeight="Bold" Command="{Binding XButtonCommand}" />
+                            <Button Content="PLU" Width="1.5cm" Height="2.1cm" Margin="2" Background="Red" FontWeight="Bold" Grid.Row="1" Command="{Binding PLUButtonCommand}" />
+                        </Grid>
+                    </Grid>
+                    <!---Ferme le pavé et X, PLU-->
+                    <!---Faire ici le grid avec les touches de paiement-->
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Button Content="BONS" Width="150" Height="40" Margin="5" Command="{Binding BonsButtonCommand}"/>
+                        <Button Content="CARTE" Width="150" Height="40" Margin="5" Grid.Row="1"/>
+                        <Button Content="CASH" Width="150" Height="40" Margin="5" Grid.Row="2"/>
+                        <Button Content="TOTAL" Width="150" Height="40" Margin="5" Grid.Row="3" Command="{Binding TotalButtonCommand}"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>

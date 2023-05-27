@@ -1,0 +1,42 @@
+﻿<Window x:Class="Vues.MainWindowNewClient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Vues"
+        Title="Nouveau client" Height="200" Width="400"
+        WindowStartupLocation="CenterScreen"
+        Background="#8BC34A">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <!-- Ajouter d'autres lignes ici pour les autres champs de formulaire -->
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Margin="5" Text="Numéro de carte:" VerticalAlignment="Center" Background="#ECEFF1" FontWeight="Bold" />
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="5" Text="{Binding NumeroCarteFidelite}" />
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="5" Text="Nom:" VerticalAlignment="Center" Background="#ECEFF1" FontWeight="Bold" />
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="5" Text="{Binding Nom}" />
+
+        <TextBlock Grid.Row="2" Grid.Column="0" Margin="5" Text="Prénom:" VerticalAlignment="Center" Background="#ECEFF1" FontWeight="Bold" />
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="5" Text="{Binding Prenom}" />
+
+        <TextBlock Grid.Row="3" Grid.Column="0" Margin="5" Text="Date de naissance:" VerticalAlignment="Center" Background="#ECEFF1" FontWeight="Bold" />
+        <DatePicker Grid.Row="3" Grid.Column="1" Margin="5" SelectedDate="{Binding DateNaissance}" />
+
+        <!-- Ajouter d'autres lignes de grille ici pour les autres champs de formulaire -->
+
+        <StackPanel Grid.Row="4" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Button Content="Enregistrer" Margin="5" Command="{Binding SaveClientCommand}" />
+            <Button Content="Annuler" Margin="5" Command="{Binding CancelCommand1}"/>
+        </StackPanel>
+    </Grid>
+</Window>

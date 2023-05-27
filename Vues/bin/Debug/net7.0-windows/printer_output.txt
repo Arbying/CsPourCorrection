@@ -1,0 +1,43 @@
+Date : 26-05-2023 22:58:17
+Ticket n°1
+Client :   (26-05-2023) - Intervenant n° 0 - Client (Carte de fidélité : 0, Points de fidélité : 0)
+Caissier :   (26-05-2023) - Intervenant n° 0 - Caissier (Intervenant n° 0, MDP : 0, Total des ventes : 0)
+Articles :
+   0 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 0€
+Total : 0€
+
+Date : 26-05-2023 22:58:17
+Ticket n°1
+Client :   (26-05-2023) - Intervenant n° 0 - Client (Carte de fidélité : 0, Points de fidélité : 0)
+Caissier :   (26-05-2023) - Intervenant n° 0 - Caissier (Intervenant n° 0, MDP : 0, Total des ventes : 0)
+Articles :
+   0 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 0€
+   1 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 10,1€
+Total : 10,1€
+
+Date : 26-05-2023 22:58:17
+Ticket n°1
+Client :   (26-05-2023) - Intervenant n° 0 - Client (Carte de fidélité : 0, Points de fidélité : 0)
+Caissier :   (26-05-2023) - Intervenant n° 0 - Caissier (Intervenant n° 0, MDP : 0, Total des ventes : 0)
+Articles :
+   0 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 0€
+   1 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 10,1€
+   1 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 10,1€
+Total : 20,2€
+
+Date : 26-05-2023 23:00:52
+Ticket n°1
+Client :   (26-05-2023) - Intervenant n° 0 - Client (Carte de fidélité : 0, Points de fidélité : 0)
+Caissier :   (26-05-2023) - Intervenant n° 0 - Caissier (Intervenant n° 0, MDP : 0, Total des ventes : 0)
+Articles :
+   0 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 0€
+Total : 0€
+
+Date : 26-05-2023 23:02:32
+Ticket n°1
+Client :   (26-05-2023) - Intervenant n° 0 - Client (Carte de fidélité : 0, Points de fidélité : 0)
+Caissier :   (26-05-2023) - Intervenant n° 0 - Caissier (Intervenant n° 0, MDP : 0, Total des ventes : 0)
+Articles :
+   0 x Chaton enragé - Prix : 10,1€ - Points : 0 - Quantité en stock : 2 = 0€
+Total : 0€
+

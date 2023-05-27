@@ -1,0 +1,17 @@
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\bin\Debug\net7.0-windows\NewArticle.exe
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\bin\Debug\net7.0-windows\NewArticle.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\bin\Debug\net7.0-windows\NewArticle.runtimeconfig.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\bin\Debug\net7.0-windows\NewArticle.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\bin\Debug\net7.0-windows\NewArticle.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle_MarkupCompile.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\refint\NewArticle.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\NewArticle.genruntimeconfig.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\NewArticle\obj\Debug\net7.0-windows\ref\NewArticle.dll

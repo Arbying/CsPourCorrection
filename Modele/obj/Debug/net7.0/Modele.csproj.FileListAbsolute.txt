@@ -1,0 +1,48 @@
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\bin\Debug\net7.0\Modele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\bin\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\bin\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\Modele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\Modele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\Modele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\refint\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\BanushiArber2201\Modele\obj\Debug\net7.0\ref\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\bin\Debug\net7.0\Modele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\bin\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\bin\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\Modele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\Modele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\Modele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\refint\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet\Modele\obj\Debug\net7.0\ref\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\bin\Debug\net7.0\Modele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\bin\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\bin\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\Modele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\Modele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\Modele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\refint\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet - Copie\Modele\obj\Debug\net7.0\ref\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\bin\Debug\net7.0\Modele.deps.json
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\bin\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\bin\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\Modele.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\Modele.AssemblyInfoInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\Modele.AssemblyInfo.cs
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\Modele.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\refint\Modele.dll
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\Modele.pdb
+C:\Users\info\OneDrive\Documents\COURS\INFO2\PROGRAMMATION PARTIE\Cs\Projet V2\Modele\obj\Debug\net7.0\ref\Modele.dll

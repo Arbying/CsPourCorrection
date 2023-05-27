@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Vues\\Vues.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Modele\\Modele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Modele\\Modele.csproj",
+        "projectName": "Modele",
+        "projectPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Modele\\Modele.csproj",
+        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Modele\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\VueModele\\VueModele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\VueModele\\VueModele.csproj",
+        "projectName": "VueModele",
+        "projectPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\VueModele\\VueModele.csproj",
+        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\VueModele\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "MvvmLightLibs": {
+              "target": "Package",
+              "version": "[5.4.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Vues\\Vues.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Vues\\Vues.csproj",
+        "projectName": "Vues",
+        "projectPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Vues\\Vues.csproj",
+        "packagesPath": "C:\\Users\\info\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Vues\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\info\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Modele\\Modele.csproj": {
+                "projectPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\Modele\\Modele.csproj"
+              },
+              "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\VueModele\\VueModele.csproj": {
+                "projectPath": "C:\\Users\\info\\OneDrive\\Documents\\COURS\\INFO2\\PROGRAMMATION PARTIE\\Cs\\Projet V2\\VueModele\\VueModele.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
